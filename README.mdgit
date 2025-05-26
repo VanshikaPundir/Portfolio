@@ -1,0 +1,1 @@
+# Documented_Portfolio initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/VanshikaPundir/Documented_Portfolio.gitgit push -u origin main
